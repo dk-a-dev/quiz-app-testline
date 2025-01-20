@@ -114,4 +114,9 @@ class QuizViewModel extends ChangeNotifier {
   - Score < 5: Encouragement animation
 
 ## 📱 Screenshots/ScreenRecording
-
+- [Screen record of app](https://drive.google.com/file/d/1EEtnFuk_RJLwYPmJN8x-j8cMHXOAcIFD/view?usp=sharing)
+- <img src='https://github.com/dk-a-dev/quiz-app-testline/blob/main/submission/splash.png'>
+- <img src='https://github.com/dk-a-dev/quiz-app-testline/blob/main/submission/home.png'>
+- <img src='https://github.com/dk-a-dev/quiz-app-testline/blob/main/submission/quiz.png'>
+- <img src='https://github.com/dk-a-dev/quiz-app-testline/blob/main/submission/quiz2.png'>
+- <img src='https://github.com/dk-a-dev/quiz-app-testline/blob/main/submission/final.png'>
